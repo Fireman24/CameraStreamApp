@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textUri"
-            android:text="rtmp://46.101.241.251/fmtest/car1" />
+            android:text="rtmp://stream-f24.daitsuna.com:1935/car/" />
     </LinearLayout>
 
 </android.support.design.widget.CoordinatorLayout>
